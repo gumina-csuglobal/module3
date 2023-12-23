@@ -1,3 +1,10 @@
+"""
+ This program calculates the total amount of a meal purchased at a restaurant. 
+ The program asks the user to enter the charge for the food.
+ Then calculate the amounts with an 18 percent tip and 7 percent sales tax. 
+ Then displays each of these amounts and the total price.
+"""
+
 # The percentage of a bill that should be added for tip
 TIP_PERCENT = .18 
 
